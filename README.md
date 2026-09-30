@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi, I'm Khemraj Chakraborty 👋
 
-<!--
-**raj-dsaiHub/raj-dsaiHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Integration Engineer (ECE) | Aspiring DSAI Engineer | AI/ML & Gen AI Enthusiast
 
-Here are some ideas to get you started:
+I am transitioning from Integration Engineering (ECE) to building intelligent systems at the intersection of Data Science, AI & Generative AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Pursuing Professional Program in Data Science, Machine Learning, AI & Gen AI @ E&ICT Academy, IIT Roorkee
+
+#### 🌱 Currently Learning & Exploring
+`Python` `Data Science` `Machine Learning` `Deep Learning` `Generative AI` `LLMs` `RAG & LangChain` `SQL` `Git`
+
+- RAG & LangChain Frameworks
+- Real-world ML Model Deployment
+- Generative AI Applications
+
+#### 📌 Featured Projects (Coming Soon)
+- GenAI Chatbot with RAG - IITR Capstone
+- End-to-End ML Pipeline
+
+#### 📫 Let's Connect
+Let's build something intelligent together!
+Open to collaborations and learning in DS/AI/ML & Gen AI projects.
